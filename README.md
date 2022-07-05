@@ -40,7 +40,7 @@
 <br/>
 
 
-⭐ <div align="center"><h1> link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a></h1></div>
+<div align="center"><h1>⭐ link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a></h1></div>
 
 <br/>
 <br/>
