@@ -40,7 +40,7 @@
 <br/>
 
 
-⭐ link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a>
+⭐ <dic align="center"><h1> link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a></h1></div>
 
 <br/>
 <br/>
