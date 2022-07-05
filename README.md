@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-<div align="center"><h1>⭐ My Formal CV Website developed by html, css, js</h1></div>
+<div align="center">⭐ My Formal CV Website developed by html, css, js</div>
 
 <br/>
 <br/>
